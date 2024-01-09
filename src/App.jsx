@@ -1,15 +1,14 @@
 import React from 'react'
 // import './App.css'
-import Home from './components/Home'
-import Signup from './components/Signup'
-import Login from './components/Login'
-import Navbar from './components/Navbar'
-import Notfound from './components/Notfound'
-import Footer from './components/Footer'
-
+import Home from './Components/Home'
+import Signup from './Components/Signup'
+import Login from './Components/Login'
+import Navbar from './Components/Navbar'
+import Notfound from './Components/Notfound'
+import Footer from './Components/Footer'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { SnackbarProvider } from 'notistack'
-import Schemes from './components/Schemes'
+import Schemes from './Components/Schemes'
 
 
 
